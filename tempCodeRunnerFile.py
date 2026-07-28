@@ -1,3 +1,5 @@
 from functools import*
-Salary=[10000,20000,30000,40000]
-print(reduce(lambda x,y :x+y,Salary))
+lst=[52,4,69,36,487,68,38,6,866,86]
+def a(x,y):
+    return x if x>y else y
+print(reduce(a,lst))
