@@ -1,2 +1,5 @@
-a=frozenset([10,20,30,4,0,50,78,52])
-print(type(a))
+def add(n):
+    if n==0:
+        return 1
+    return n*add(n-1)
+print(add(5))
