@@ -1,5 +1,3 @@
-def add(n):
-    if n==0:
-        return 1
-    return n*add(n-1)
-print(add(5))
+from functools import*
+Salary=[10000,20000,30000,40000]
+print(reduce(lambda x,y :x+y,Salary))
