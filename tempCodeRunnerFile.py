@@ -1,5 +1,5 @@
-from functools import*
-lst=[52,4,69,36,487,68,38,6,866,86]
-def a(x,y):
-    return x if x>y else y
-print(reduce(a,lst))
+from math import*
+lst=[1,2,3,4,5,6,7,8,9,10]
+def fact(x):
+    return factorial(x)
+print(list(map(fact,lst)))
