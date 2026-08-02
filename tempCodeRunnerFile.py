@@ -1,6 +1,6 @@
-n=int(input(" enter the number of terms"))
-a, b = 0, 1
-for _ in range(n):
-    print(a, end=" ")
-    a, b = b, a + b
-    print()
+def sum_and_average(lst):
+    total = sum(lst)
+    average = total / len(lst)
+    return total, average
+
+print(sum_and_average([1, 2, 3, 4, 5]))
