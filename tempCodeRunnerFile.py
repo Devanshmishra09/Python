@@ -1,6 +1,6 @@
-def sum_and_average(lst):
-    total = sum(lst)
-    average = total / len(lst)
-    return total, average
 
-print(sum_and_average([1, 2, 3, 4, 5]))
+with open("c.py","r")as c:
+    for i in range(1,7):
+     line=c.readline()
+     if i >= 2:
+         print(line,end="")
