@@ -1,0 +1,70 @@
+Name  :  Devansh mishra
+Roll_no  :  102
+Python  :  86
+Tebaule  :  89
+Sql  :  58
+PowerBi  :  68
+Total  :  348
+Percentage  :  69.6
+ Grade CName  :  dfguhggf
+Roll_no  :  104
+Python  :  45
+Tebaule  :  68
+Sql  :  78
+PowerBi  :  58
+Total  :  313
+Percentage  :  62.6
+ Grade CName  :  deva
+Roll_no  :  101
+Python  :  78
+Tebaule  :  65
+Sql  :  59
+PowerBi  :  87
+Total  :  358
+Percentage  :  71.6
+ Grade CName  :   Devansh 
+Roll_no  :  101
+Python  :  54
+Tebaule  :  87
+Sql  :  54
+PowerBi  :  87
+Total  :  338
+Percentage  :  67.6
+ Grade C
+Name  :     dev
+Roll_no  :  101
+Python  :  47
+Tebaule  :  55
+Sql  :  59
+PowerBi  :  58
+Total  :  287
+Percentage  :  57.4
+ Grade C
+Name  :    des
+Roll_no  :  106
+Python  :  58
+Tebaule  :  88
+Sql  :  48
+PowerBi  :  85
+Total  :  347
+Percentage  :  69.4
+ Grade C
+Name  :   fut
+Roll_no  :  105
+Python  :  78
+Tebaule  :  35
+Sql  :  87
+PowerBi  :  47
+Total  :  343
+Percentage  :  68.6
+ Grade C
+==== Student Record  ====Name  :   fjuoiew
+Roll_no  :  108
+Python  :  58
+Tebaule  :  65
+Sql  :  98
+PowerBi  :  48
+Total  :  304
+Percentage  :  60.8
+ Grade C
+==== Student Record  ====
